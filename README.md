@@ -1,1 +1,1 @@
-# Sistema de Classificação de Risco para Concessão de Empréstimo
+# Estudo e exemplos de regressão
