@@ -1,1 +1,1 @@
-# Estudo e exemplos de regressão
+# Estudo e Exemplos de Regressão Linear
